@@ -6,7 +6,7 @@
 ### <div align="center">I'm Harry, a full-time full-stack developer 👨‍💻 working since 2018 🚀</div>  
   
 
-- 🔭 I’m currently working on Zenzai  
+- 🔭 I’m currently working on -Redacted-  
   
 
 - 🌱 I’m currently learning Chakra-UI  
