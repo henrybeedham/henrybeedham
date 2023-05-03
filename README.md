@@ -102,14 +102,14 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=codehb&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=henrybeedham&&style=flat-square" align="center" />
 </div>  
   
 
 <br/>  
 
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codehb&show_icons=true&locale=en" alt="codehb" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henrybeedham&show_icons=true&locale=en" alt="codehb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codehb&" alt="codehb" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henrybeedham&" alt="henrybeedham" /></p>
 </div>
