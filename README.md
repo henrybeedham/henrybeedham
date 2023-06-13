@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on -Redacted-  
   
 
-- 🌱 I’m currently learning Chakra-UI  
+- 🌱 I’m currently learning Nextjs and Lambda
   
 
 - ❓ Ask me about anything related to React and Firebase stack and related technologies  
