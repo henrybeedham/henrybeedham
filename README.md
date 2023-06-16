@@ -111,5 +111,5 @@
 <div align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henrybeedham&show_icons=true&locale=en" alt="codehb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henrybeedham&" alt="henrybeedham" /></p>
+
 </div>
